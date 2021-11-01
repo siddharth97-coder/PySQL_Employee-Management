@@ -1,0 +1,32 @@
+id,name,age,salary,department id,address id,manager id
+
+1,Steven King,34,24000.0,9,3,0
+
+2,Neena Kochhar,32,17000.0,9,3,5
+
+3,Lex De Haan,28,17000.0,9,3,1
+
+4,Alexander Hunold,31,9000.0,6,1,3
+
+5,Bruce Ernst,30,6000.0,6,1,4
+
+6,David Austin,24,4800.0,6,1,4
+
+7,Valli Pataballa,23,17000.0,6,1,1
+
+8,Diana Lorentz,21,4200.0,6,1,4
+
+9,Nancy Greenberg,27,12000.0,10,3,2
+
+10,Daniel Faviet,27,9000.0,10,3,9
+
+11,John Chen,24,8200.0,10,3,9
+
+12,Ismael Sciarra,24,7700.0,10,3,9
+
+13,Jose Manuel,23,7800.0,10,3,9
+
+14,Luis Popp,21,6900.0,10,3,9
+
+15,Den Raphaely,11000,11000.0,3,3,1
+

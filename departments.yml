@@ -1,0 +1,33 @@
+- id: 1
+  name: Administration
+  headquarters address id: 3
+- id: 2
+  name: Marketing
+  headquarters address id: 4
+- id: 3
+  name: Purchasing
+  headquarters address id: 3
+- id: 4
+  name: Human Resources
+  headquarters address id: 5
+- id: 5
+  name: Shipping
+  headquarters address id: 2
+- id: 6
+  name: IT
+  headquarters address id: 1
+- id: 7
+  name: Public Relations
+  headquarters address id: 7
+- id: 8
+  name: Sales
+  headquarters address id: 6
+- id: 9
+  name: Executive
+  headquarters address id: 3  
+- id: 10
+  name: Finance
+  headquarters address id: 3
+- id: 11
+  name: Accounting
+  headquarters address id: 3
